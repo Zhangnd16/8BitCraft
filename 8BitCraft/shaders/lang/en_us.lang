@@ -1,0 +1,27 @@
+option.STIPPLING=Stippling Effect
+value.STIPPLING.true=§2True
+value.STIPPLING.false=§4False
+option.STIPPLING_SCALE=Stippling Scale
+
+option.EDGE_DETECTION=§bEdge Detection
+value.EDGE_DETECTION.true=§2True
+value.EDGE_DETECTION.false=§4False
+
+screen.COLORS=§3Color Settings
+
+option.BLUR=§7Blur
+value.BLUR.true=§2True
+value.BLUR.false=§4False
+option.BLUR_SCALE=§7Blur Intensity
+
+option.BLACK_BRIGHTNESS=Black Brightness
+option.PAPER_COLOR=§7Colored Paper
+value.PAPER_COLOR.true=§2True
+value.PAPER_COLOR.false=§4False
+option.PAPER_BRIGHTNESS=Paper Brightness
+option.PAPER_HUE=§7Paper Hue
+option.PAPER_SATURATION=§7Paper Saturation
+
+option.NOISE=§6Noise
+value.NOISE.1=§2True
+value.NOISE.0=§4False
